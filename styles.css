@@ -1,0 +1,28 @@
+ body {
+    background-color: black;
+    margin:auto;
+ }
+
+ p {
+    color:whitesmoke;
+    margin: 20px;
+    text-align: center;
+ }
+
+ .title-div {
+    display:flex;
+ }
+
+ .title {
+    color: #5b5dce;
+ }
+ 
+ /* Change svg background color. */
+ .area {
+    background-color: #5b5dce;
+  }
+
+  .rectangle {
+    display:block;
+    text-align: center;
+  }
